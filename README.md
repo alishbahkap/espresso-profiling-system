@@ -9,6 +9,9 @@ An IoT-based espresso shot profiling system utilizing a (ESP32) microcontroller 
 // Targets
 
 a) Elec. engineering (embedded programming, microcontrollers)
+
 b) Software (front and backend fun)
+
 c) IoT systems
+
 d) Espresso optimization ( :3 so I can pull better shots)
