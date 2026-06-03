@@ -1,4 +1,6 @@
-basic pipeline:
+#System Architecture 
+
+
 
 
 Machine
